@@ -1,6 +1,3 @@
-<html lang="vi">
-<head>
-<meta charset="UTF-8">
 <title>All About Me</title>
 <style>
 body{background: linear-gradient(#ffe6f2,#e6f7ff);font-family: "Comic Sans MS", cursive;text-align: center;}
@@ -13,7 +10,6 @@ h1{ color:#ff66a3; font-size:40px;}
 .flag{width:120px;}
 footer{margin-top:20px; color:#555;}
 </style>
-</head>
 <body>
 <h1>✨ All About Me✨</h1> <img src="https://i.pinimg.com/originals/f5/77/32/f577320ed2cc4ecb9c92f3f88e4f5f9c.png" width="120"> 
 <img src="https://i.pinimg.com/originals/05/10/75/05107587a95a2e2441223e55be087726.png" width="120">
