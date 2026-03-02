@@ -1,4 +1,3 @@
-<title>All About Me</title>
 <style>
 body{background: linear-gradient(#ffe6f2,#e6f7ff);font-family: "Comic Sans MS", cursive;text-align: center;}
 h1{ color:#ff66a3; font-size:40px;}
@@ -68,4 +67,3 @@ footer{margin-top:20px; color:#555;}
 <footer>
     🌸 Made by Nguyễn Vũ Yến Nhi 🌸
 </footer>
-</html>
