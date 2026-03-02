@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="vi">
 <head>
 <meta charset="UTF-8">
@@ -42,7 +41,6 @@ footer{margin-top:20px; color:#555;}
      <img src="https://i.pinimg.com/736x/5a/d5/1b/5ad51b165208f3c26e6c429ac59c08d8.jpg" width="60"> 
     <p>Drink: Trà sữa kem trứng </p>
 <div class="box">
-</div>
 </div>
 <div class="box">
     <p class="title">🎨 Favourite Colour</p>
